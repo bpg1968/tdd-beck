@@ -5,3 +5,5 @@
 -   Money rounding?
 - ~~equals()~~
 -   hashCode()
+-   Equal null
+-   Equal object
